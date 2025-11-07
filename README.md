@@ -1,8 +1,8 @@
-# picoCTF Agent Workspace
+# Tiny CTF: a minimal full auto CTF agent
 
 This project exists purely for educational practice: it helps researchers and learners study how AI-guided agents can approach CTF problems end to end.
 
-This repository contains a reusable workspace for practicing picoCTF-style challenges with Codex acting as a ReAct agent. The core prompt lives in `AGENTS.md`, guiding the agent through common CTF disciplines—currently Reverse Engineering and Cryptography—to surface flags efficiently.
+This repository contains a reusable workspace for practicing picoCTF-style challenges with Codex (or Claude Code / Gemini CLI) acting as a ReAct agent. The core prompt lives in `AGENTS.md`, guiding the agent through common CTF disciplines—currently Reverse Engineering and Cryptography—to surface flags efficiently.
 
 ## How It Works
 - `AGENTS.md` describes the mission mindset, toolbelt, and workflow habits that Codex follows while triaging challenges.
