@@ -28,6 +28,7 @@
 ## Toolbelt Essentials
 - Core CLI: `file`, `strings`, `xxd`, `hexdump`, `grep`, `awk`, `sed`, `jq`.
 - Reverse engineering: `ghidra`, `radare2`, `gdb`, `pwntools`.
+- Android reverse engineering: local `apktool` install ready for APK unpack/rebuild workflows.
 - Web: `burpsuite`, browser DevTools, `curl`, `sqlmap`.
 - Crypto/forensics: `sage`, `z3`, `hashcat`, `binwalk`, `volatility`.
 - Binary artifacts: identify with `file`, then pick the right tool (`objdump`, `readelf`, `strings`, etc.); for `.pyc` use `decompyle3` or `xdis`, either via CLI or a quick Python decompiler script.
